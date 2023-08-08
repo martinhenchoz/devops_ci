@@ -1,3 +1,1 @@
-# devops_ci
-# Martín Henchoz
-# Burzaco - Buenos Aires
+# devops_ci por Martín Henchoz

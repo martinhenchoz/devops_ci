@@ -1,3 +1,1 @@
-# devops_ci
-# Claro Argentina
-# Buenos Aires
+# devops_ci Martin Henchoz

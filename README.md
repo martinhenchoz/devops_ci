@@ -1,1 +1,1 @@
-# devops_ci Martin Henchoz
+# devops_ci Martin Henchoz / Ubuntu

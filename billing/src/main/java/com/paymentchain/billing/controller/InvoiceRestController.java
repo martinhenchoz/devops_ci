@@ -48,7 +48,7 @@ public class InvoiceRestController {
     
     @ApiOperation(value = "Return all transaction bundled into Response", notes = "Return 204 if no data found")
     @ApiResponses(value = {
-        @ApiResponse(code = 204, message = "There are not transactions"),
+        @ApiResponse(code = 204, message = "No hay transacciones"),
         @ApiResponse(code = 500, message = "Internal error")})
     @GetMapping()
     public List<InvoiceResponse> list() {
